@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222628783640",
+    "project_id": "dictionary-8f825",
+    "storage_bucket": "dictionary-8f825.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222628783640:android:4a201e200546eee945856d",
+        "android_client_info": {
+          "package_name": "com.mirjalol.dictionary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA78SJH9Hf84yIgSphEMPFJJbkc_uwl7yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
